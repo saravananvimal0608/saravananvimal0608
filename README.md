@@ -1,44 +1,36 @@
-# 🚀 My Project Name
+# 👋 Hi, I'm Saravanan
 
-<p align="center">
-  <img src="https://via.placeholder.com/200" alt="logo"/>
-</p>
-
-## 📌 About Project
-This project is a web application built to solve real-world problems.  
-It includes features like authentication, payment, and user management.
+## 🚀 About Me
+- 💻 Full Stack Developer
+- 📚 Learning Java & MERN Stack
+- 🎯 Goal: Become Software Engineer
 
 ---
 
-## ✨ Features
-- 🔐 User Login & Signup
-- 💳 Payment Integration
-- 📊 Dashboard
-- 📱 Responsive Design
+## 🛠️ Skills
+- Java
+- JavaScript
+- React.js
+- Node.js
+- MongoDB
 
 ---
 
-## 🛠️ Tech Stack
-- Frontend: React.js
-- Backend: Node.js, Express.js
-- Database: MongoDB
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
 
 ---
 
-## 📷 Screenshots
-![App Screenshot](https://via.placeholder.com/800x400)
+## 🔥 Projects
+- 🛒 E-commerce App
+- 💇 Salon Booking App
+- 📊 Admin Dashboard
 
 ---
 
-## 🚀 Live Demo
-👉 https://your-live-link.com
+## 📫 Contact Me
+- Email: yourmail@gmail.com
 
 ---
 
-## ⚙️ Installation
-
-```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-npm install
-npm start
+⭐ Thanks for visiting my profile!
