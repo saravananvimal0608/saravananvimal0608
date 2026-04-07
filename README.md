@@ -6,7 +6,7 @@
 <h1 align="center">👋 Hi, I'm Saravanan</h1>
 
 <p align="center">
-🚀 React JS Developer | Full Stack Developer  
+🚀 React JS Developer | Mern Stack Developer  
 </p>
 
 ---
@@ -17,7 +17,7 @@
 - 🎓 Completed **BCA @ SRM College**
 - 📚 Pursuing **MCA (Correspondence)**
 - 🧠 3 Months Internship @ Jnana Inventive
-- 🔥 Handling Full Project Independently (6 Roles System)
+- 🔥 Handling Mern Project Independently (6 Roles System)
 
 ---
 
@@ -45,7 +45,7 @@
 
 ### 🧪 Internship - Jnana Inventive
 - Duration: 3 Months
-- Worked on Full Stack Development
+- Worked on Mern Stack Development
 
 ---
 
