@@ -89,5 +89,5 @@ If you like my work, give a ⭐ and follow me 🚀
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer"/>
-</p>    --heading-gradient: linear-gradient(135deg, #9796f0, #fbc7d4, #16213e); 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,50:fbc7d4,100:16213e&height=200&"/>
+</p> 
