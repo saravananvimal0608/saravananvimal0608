@@ -45,7 +45,7 @@
 
 ### 🧪 Internship - Jnana Inventive
 - Duration: 3 Months
-- Worked on Full Stack Development
+- Worked on Mern Stack Development
 
 ---
 
