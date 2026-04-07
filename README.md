@@ -1,6 +1,6 @@
-<!-- TOP GRADIENT BANNER -->
+<!-- TOP BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,50:fbc7d4,100:16213e&height=200&section=header&text=Saravanan%20Vimal&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Saravanan%20Vimal&fontSize=40&fontColor=ffffff"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Saravanan</h1>
@@ -13,13 +13,11 @@
 
 ## 🧑‍💻 About Me
 
-<div align="center" style="background: linear-gradient(135deg,#9796f0,#fbc7d4,#16213e); padding:10px; border-radius:10px; color:white;">
-💼 React JS Developer @ Cotyledon Technology <br/>
-🎓 BCA @ SRM College <br/>
-📚 MCA (Correspondence) <br/>
-🧠 Internship @ Jnana Inventive <br/>
-🔥 Handling 6 Role System Project
-</div>
+- 💼 Currently working as **React JS Developer @ Cotyledon Technology**
+- 🎓 Completed **BCA @ SRM College**
+- 📚 Pursuing **MCA (Correspondence)**
+- 🧠 3 Months Internship @ Jnana Inventive
+- 🔥 Handling Full Project Independently (6 Roles System)
 
 ---
 
@@ -34,30 +32,61 @@
 ## 💼 Experience
 
 ### 🏢 Cotyledon Technology
-- React JS Developer  
-- PickYourSlot Project  
-- Admin | Vendor | Accountant | Supervisor | Multi-role  
+- Role: React JS Developer
+- Working on **PickYourSlot Website**
+- Managing Roles:
+  - 👨‍💼 Admin
+  - 🛒 Vendor
+  - 💰 Accountant
+  - 👨‍🔧 Supervisor
+  - 👥 Multi-role System
+
+---
+
+### 🧪 Internship - Jnana Inventive
+- Duration: 3 Months
+- Worked on Full Stack Development
 
 ---
 
 ## 🚀 Projects
 
-- 🧾 Billing Software  
-- 🎥 YouTube Clone  
-- 🏠 Real Estate Website  
-- 🛒 E-commerce Website  
-- 🌐 Portfolio  
-- 📅 PickYourSlot  
+- 🧾 Billing Software
+- 🎥 YouTube Clone
+- 🏠 Real Estate Website
+- 🛒 E-commerce Website
+- 🌐 Portfolio Website
+- 📅 PickYourSlot (Current Project)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=saravananvimal0608&show_icons=true&theme=radical"/></p>
+<img src="https://github-readme-stats.vercel.app/api?username=saravananvimal0608&show_icons=true&theme=tokyonight"/>
+</p>
+
 ---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saravananvimal0608&theme=react-dark"/>
+</p>
+
+---
+
+## 📫 Contact
+
+- 📧 saravananvimal0608@gmail.com
+
+---
+
+## ⭐ Support
+
+If you like my work, give a ⭐ and follow me 🚀
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:fbc7d4,100:9796f0&height=120&section=footer"/>
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer"/>
+</p> ithuvey same enakku background color like     --heading-gradient: linear-gradient(135deg, #9796f0, #fbc7d4, #16213e); intha color la venum 
