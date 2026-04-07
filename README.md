@@ -1,6 +1,6 @@
 <!-- TOP BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Saravanan%20Vimal&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,50:fbc7d4,100:16213e&height=200&section=header&text=Saravanan%20Vimal&fontSize=40&fontColor=ffffff"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Saravanan</h1>
