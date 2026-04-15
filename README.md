@@ -17,8 +17,6 @@
 - 🎓 Completed **BCA @ SRM College**
 - 📚 Pursuing **MCA (Correspondence)**
 - 🧠 3 Months Internship @ Jnana Inventive
-- 🔥 Handling Mern Project Independently (6 Roles System)
-
 ---
 
 ## 🚀 Tech Stack
